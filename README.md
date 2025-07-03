@@ -2,9 +2,9 @@
 # 🏛️ Temple Scan
 
 <div align="center">  
-  [![Website](https://img.shields.io/badge/Website-Temple%20Scan-blue?style=for-the-badge&logo=google-chrome)]([https://templescan.com](https://templetoons.com/)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/templescan)
-  [![Telegram](https://img.shields.io/badge/Telegram-@temple__scan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/temple_scan)
+  [Website](https://img.shields.io/badge/Website-Temple%20Scan-blue?style=for-the-badge&logo=google-chrome)]([https://templescan.com](https://templetoons.com/)
+  [Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/templescan)
+  [Telegram](https://img.shields.io/badge/Telegram-@temple__scan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/temple_scan)
   
   <h3>✨ Your Gateway to Premium Manga & Manhwa Content ✨</h3>
 </div>
